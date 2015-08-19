@@ -1,7 +1,7 @@
 ## elasticsearch-test-client
 
 Simple application to verify TransportClient connectivity to an Elasticsearch cluster.  
-Uses Elasticsearch 1.4.3 by default, adjust pom.xml to specify other versions
+Uses Elasticsearch 1.7.1 by default, adjust pom.xml to specify other versions
 
 ### Usage
 
